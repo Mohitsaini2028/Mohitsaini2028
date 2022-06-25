@@ -1,5 +1,5 @@
 ### Hi there 👋
-🔭 I’m Mohit Saini.
+🔭 I’m Mohit Saini
 <br /> 
 🕸️ Web Developer
 <br/>
@@ -7,7 +7,7 @@
 
 
 ## How to reach me -
-[Drop a Mail](mohitsaini00720@gmail.com) 
+[Drop a Mail](mailto:mohitsaini00720@gmail.com) 
 <br /> 
 [Linked In](https://www.linkedin.com/in/mohit-saini-86a5081aa) 
 <br /> 
