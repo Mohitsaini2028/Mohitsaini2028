@@ -16,10 +16,13 @@
 ---
 <details>
   <summary>:zap: GitHub Stats</summary>
+  <a href="https://profile-summary-for-github.com/user/Mohitsaini2028">
 
  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Mohitsaini2028&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=Mohitsaini2028&theme=dark&hide_border=true" width="48%" >
 </details>
+
 
 
 
