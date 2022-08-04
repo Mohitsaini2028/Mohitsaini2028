@@ -9,11 +9,22 @@
 
 
 ## How to reach me -
-[Drop a Mail](mailto:mohitsaini00720@gmail.com) 
+<!-- [Drop a Mail](mailto:mohitsaini00720@gmail.com) 
 <br /> 
 [Linked In](https://www.linkedin.com/in/mohit-saini-86a5081aa) 
 <br /> 
-[Visit My Website](https://mohitsainiportfolio.dorik.io/)
+[Visit My Website](https://mohitsainiportfolio.dorik.io/) -->
+
+
+[![website](./img/globe-dark.svg)](https://mohitsainiportfolio.dorik.io#gh-dark-mode-only)
+
+<!-- &nbsp;&nbsp;
+[![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
+&nbsp;&nbsp; -->
 
 
 ## Languages, Frameworks and Tools:
