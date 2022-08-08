@@ -11,7 +11,7 @@
 ## How to reach me -
 [Drop a Mail](mailto:mohitsaini00720@gmail.com) 
 <br /> 
-[Linked In](https://www.linkedin.com/in/mohit-saini-86a5081aa) 
+[Linked In](https://www.linkedin.com/in/mohit-saini007) 
 <br /> 
 [Visit My Website](https://mohitsainiportfolio.dorik.io/)
 
