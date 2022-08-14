@@ -1,11 +1,16 @@
-### Hi there 👋
+### Hi there 👋  
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" />About me:
-🔭 I’m Mohit Saini
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" />About me: 
+
+
+🔭 I’m Mohit Saini 
 <br /> 
 🕸️ Web Developer
 <br/>
 💬 Ask me about anything, I am happy to help
+<br/>
+<img width="15%" src="https://komarev.com/ghpvc/?username=Mohitsaini2028"/>
+
 
 
 ## How to reach me -
@@ -53,6 +58,8 @@
 
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Mohitsaini2028&theme=dark&hide_border=true" />
 </details>
+
+
 
 
 
